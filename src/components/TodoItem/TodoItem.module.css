@@ -1,0 +1,22 @@
+.todoitem{
+    background:pink;
+    list-style:none;
+    color:#fff;
+    margin:1rem;
+    padding:1rem;
+    border-radius:1rem;
+    font-size:18px;
+}
+.crossX{
+    background-color: red;
+    color: #fff;
+    border-radius: 40%;    
+    float: right;
+    border: 0px;
+    padding: 0.5em;
+}
+.editbtn{
+    float: right;
+    padding: 0.4em;
+    margin-right: 0.5rem;
+}
